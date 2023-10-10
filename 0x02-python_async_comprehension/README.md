@@ -18,3 +18,8 @@ The coroutine will collect 10 random numbers using an async comprehensing over a
 measure_runtime should measure the total runtime and return it.
 
 Notice that the total runtime is roughly 10 seconds, explain it to yourself.</p>
+
+<h3>Run the following files to test the codes</h3>
+<p>0-main.py</p>
+<p>1-main.py</p>
+<p>2-main.py</p>
